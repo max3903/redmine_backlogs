@@ -14,7 +14,7 @@ fr:
   backlogs_sprint_unestimated: "Sprints ferm\xC3\xA9s ou actifs avec sc\xC3\xA9narios non-estim\xC3\xA9s"
   backlogs_sprint_unsized: "Le projet a des sc\xC3\xA9narios sur des sprints actifs ou r\xC3\xA9cemment ferm\xC3\xA9s qui n'ont pas de taille d\xC3\xA9finie"
   backlogs_sprints: Sprints
-  backlogs_story: "Sc\xC3\xA9anario"
+  backlogs_story: "Sc\xC3\xA9nario"
   backlogs_story_tracker: "Tracker de sc\xC3\xA9narios"
   backlogs_task: !binary |
     VMOiY2hl
